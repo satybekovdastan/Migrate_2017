@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Мигранттын маалымдамасы</string>
+    <string name="reg_name">Форумда жазуу үчүн катталышыңыз керек </string>
+    <string name="my_text">This is an <u>underline</u>.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_item_language">kg</string>
+    <string name="call_button_text">Дароо чалыңыз</string>
+    <string name="bt_news">Жаңылыктар</string>
+    <string name="bt_eaeu">ЕАЭБде жүрүү эрежелелери</string>
+    <string name="bt_hot_line">Тынымсыз байланыштар</string>
+    <string name="bt_embassy">КРдин элчиликтери жана консулдуктары</string>
+    <string name="bt_diaspora">Диаспоралар жана өкүлдөр</string>
+    <string name="bt_abroad">Чет өлкөлөрдө жүрүү эрежелери</string>
+    <string name="bt_ht">Абайлаңыз! Адамдарды сатуу</string>
+    <string name="bt_prohibition">РФке кирүүгө тыюу салуу</string>
+    <string name="bt_employment">Ишке орноштуруу</string>
+    <string name="bt_faq">Көп берилүүчү суроолор</string>
+    <string name="ac_embassy">Элчиликтер</string>
+    <string name="ac_abroad"> Чет өлкөлөрдө жүрүү эрежелери</string>
+    <string name="toast_no_internet">Интернетти иштетиңиз жана жаңыртыңыз</string>
+    <string name="ac_diaspora">Диаспора жана коомдук өкүлдөр</string>
+    <string name="ac_eaeu">ЕАЭБде жүрүү эрежелери</string>
+    <string name="ac_employment">Ишке орноштуруу</string>
+    <string name="ac_faq">Суроолор жана жооптор</string>
+    <string name="ac_hotline">Тынымсыз байланыштар </string>
+    <string name="ac_news">Жаңылыктар</string>
+    <string name="ac_prohib"> РФке кирүүгө тыюу салуу </string>
+    <string name="ac_about_project">Долбоор жөнүндө</string>
+    <string name="ac_ht">Абайлаңыз! Адамдарды сатуу</string>
+    <string name="menu_about">Долбоор жөнүндө</string>
+    <string name="tv_faq_answer">Суроо</string>
+    <string name="tv_question_faq">Жооп</string>
+    <string name="tv_embassy_consulate">Консулдук бөлүмдөр</string>
+    <string name="ac_consulate_actionbar">Консулдуктар</string>
+    <string name="phone_line">КР Өкмөтүнө караштуу Мамлекеттик миграция кызматынын тынымсыз байланышы</string>
+    <string name="tv_choose_country">Өлкөнү тизмеден тандаңыз</string>
+    <string name="tv_choose_region">Регионду тизмеден тандаңыз</string>
+    <string name="ac_nko">КЭУ</string>
+    <string name="bt_nko_in_ht">Адамдарды сатуунун алдын алуу маселелери менен иштеген КЭУлар</string>
+    <string name="ac_blacklist">Кара тизме</string>
+    <string name="tv_blacklistin_rf">Өзүн кара тизмеден текшерүү</string>
+    <string name="ac_username">«Кара тизмеде» бар экенин текшерүү үчүн издөө формасына фамилияны жазыңыз:</string>
+    <string name="tv_date_in_blacklist"> Туулган күнүн, айын жылын жазыңыз:</string>
+    <string name="toast_copy_to_buffer">Алмаштыруу буферине көчүрмөлөнгөн</string>
+    <string name="tv_about_project_name">АКШнын Мамлекеттик департаментинин «Кыргыз Республикасынын Өкмөтүнө адамдарды сатуунун алдын алуу жаатындагы ченемдик-укуктук жана техникалык базаны бекемдөөдө көмөк көрсөтүү» долбоору
+    </string>
+    <string name="toast_karta">Картага өтүү</string>
+    <string name="toast_copy">Көчүрмөлөө</string>
+    <string name="tv_2_about_ac">Кыргыз Республикасынын Өкмөтүнө караштуу Мамлекеттик миграция кызматы
+        \n\n
+Дареги: Бишкек ш., Токтогул көч., № 237
+        \n
+Телефону: 0 312 65-02-54</string>
+    <string name="tv_3_about_ac">АКШнын Мамлекеттик департаменти</string>
+    <string name="tv_4_about_ac">Миграция боюнча Эл аралык Уюм</string>
+
+
+    <string name="ac_emloyment">КРӨ алдындагы ММК Маалыматтык-кеңеш берүүчү борбору</string>
+    <string name="ac_emloyment_license">Ишке орноштуруу боюнча лицензия алган мекемелер</string>
+
+
+      <string name="ac_faq_1">эгер вы стали жертвой торговли людьми, не стыдитесь этого. Ваши права гарантированы законом. Обратитесь за помощью как можно скорее. \n" +
+                "Мигранты также имеют право на защиту государства, юридическую помощь и доступ к социальным услугам. Если вы жертва торговли людьми, вы также можете получить помощь.\n" +
+                "Свяжитесь с уполномоченными людьми, если:\n      Вас либо кого-то из ваших знакомых заставляют работать бесплатно!\n" +
+                "Вы лишены свободы передвижения и не можете связаться с родственниками!\n" +
+                "Ваш работодатель причиняет вам моральный либо физический вред!\n" +
+                "Существуют горячие линии, с помощью которых можно сообщить властям и НПО о случаях работорговли и эксплуатации.");
+        istories.setNickName("Если вы стали  жертвой  торговли людьми</string>
+
+    <string name="ac_hotline_second">Түз байланыш</string>
+    <string name="ac_hotline_phone">Чакыруу</string>
+    <string name="ac_hotline_line">Түз байланыш</string>
+    <string name="ac_hotline_next">өтүү</string>
+    <string name="ac_inpection_btn">Текшерүү</string>
+    <string name="ac_mom_g">Кыргыз Республикасынын жарандарын ишке орноштуруу борбору</string>
+    <string name="ac_hotline_ky">КР Өкмөтүнө караштуу Мамлекеттик миграция кызматынын Маалыматтык-кеңеш берүүү борборунда Түз Байланыштын 189 колл-борбору иштейт, ал миграция жана адам сатуу тобокелдиги маселелери боюнча квалификацияланган кеңеш берүү жана жардам көрсөтүүгө багытталган. 0 800 0000 189 интеллектуалдык номерине чалып (чалуу акысыз) Кыргызстандын каалагандай жашоочусу жолго чыгуу жана ишке орношуу боюнча практикалык кеңештерди алып, ошондой эле адам сатуу учурлар же чет мамлекеттерде иштөөгө санкцияланбаган топтоолор тууралуу билдире алышат, жана анысы менен балким, өз мекендештеринин кулчулукка туш болуусунун алдын алышат.</string>
+    <string name="ac_hotline_str">Башка өлкөлөрдөгү ушуга окшош түз байланыштар</string>
+    <string name="ac_employment_str">КРнын жарандарын чет мамлекеттерде (өлкөлөр боюнча) ишке орноштурууну жүзөгө ашырууга карата лицензиялары бар менчик ишке орноштуруу агенттиктеринин тизмеси</string>
+    <string name="menu_o_proj">Долбоор жөнүндө</string>
+</resources>
